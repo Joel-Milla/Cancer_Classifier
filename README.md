@@ -1,5 +1,5 @@
 # Cancer Classifier Project
-This project is part of a machine learning course focused on employing the K Nearest Neighbors algorithm to create a predictive model. Utilizing the [Breast Cancer Wisconsin Diagnostic](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) dataset, this model is designed to classify whether an individual has breast cancer or not. Our approach involves data processing, model training using the datasets, and extensive evaluation. The model's efficacy is determined through iterative testing with different `k` values, choosing the optimal model based on its accuracy.
+This project is focused on employing the K Nearest Neighbors algorithm to create a predictive model, applying learnings from a machine learning course. Utilizing the [Breast Cancer Wisconsin Diagnostic](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) dataset, this model is designed to classify whether an individual has breast cancer or not. Our approach involves data processing, model training using the datasets, and extensive evaluation. The model's efficacy is determined through iterative testing with different `k` values, choosing the optimal model based on its accuracy.
 
 ## Features
 - Model Training: Utilizes training and testing datasets to develop and improve the model, ensuring its performance.
